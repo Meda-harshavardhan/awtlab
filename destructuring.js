@@ -6,7 +6,7 @@ console.log(rest);
 
 const obj = {
     name : "Harshavardhan",
-    age : 20,
+    age : 19,
     rollno : "22b81a1276"
 }
 

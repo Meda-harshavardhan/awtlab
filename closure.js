@@ -7,4 +7,3 @@ function outerFunction(outerVariable) {
   
   const closureExample = outerFunction("Outer function call"); // This function returns another function which we again call.
   closureExample("Inner Function call");
-  

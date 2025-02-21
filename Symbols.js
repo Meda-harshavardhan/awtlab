@@ -1,7 +1,7 @@
 const id = Symbol("id");
 const user = {
   name: "Harsha",
-  [id]: 101
+  [id]: 105
 };
 
 console.log(user[id]);
